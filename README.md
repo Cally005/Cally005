@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cally005
-- 👀 I’m interested in React,Javascript and other necessary programming languages 
-- 🌱 I’m currently learning Raect 
+- 👀 I’m interested in React,Javascript, Typscript and other necessary programming languages 
+- 🌱 Raect and Next.js Fullstack developer
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me callistusorafu@gmail.com
 
